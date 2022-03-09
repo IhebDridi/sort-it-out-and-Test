@@ -1,0 +1,15 @@
+/home/iheb/Documents/code/dotnet/first-test/sol/src/OrderList/bin/Debug/net6.0/OrderList
+/home/iheb/Documents/code/dotnet/first-test/sol/src/OrderList/bin/Debug/net6.0/OrderList.deps.json
+/home/iheb/Documents/code/dotnet/first-test/sol/src/OrderList/bin/Debug/net6.0/OrderList.runtimeconfig.json
+/home/iheb/Documents/code/dotnet/first-test/sol/src/OrderList/bin/Debug/net6.0/OrderList.dll
+/home/iheb/Documents/code/dotnet/first-test/sol/src/OrderList/bin/Debug/net6.0/ref/OrderList.dll
+/home/iheb/Documents/code/dotnet/first-test/sol/src/OrderList/bin/Debug/net6.0/OrderList.pdb
+/home/iheb/Documents/code/dotnet/first-test/sol/src/OrderList/obj/Debug/net6.0/OrderList.csproj.AssemblyReference.cache
+/home/iheb/Documents/code/dotnet/first-test/sol/src/OrderList/obj/Debug/net6.0/OrderList.GeneratedMSBuildEditorConfig.editorconfig
+/home/iheb/Documents/code/dotnet/first-test/sol/src/OrderList/obj/Debug/net6.0/OrderList.AssemblyInfoInputs.cache
+/home/iheb/Documents/code/dotnet/first-test/sol/src/OrderList/obj/Debug/net6.0/OrderList.AssemblyInfo.cs
+/home/iheb/Documents/code/dotnet/first-test/sol/src/OrderList/obj/Debug/net6.0/OrderList.csproj.CoreCompileInputs.cache
+/home/iheb/Documents/code/dotnet/first-test/sol/src/OrderList/obj/Debug/net6.0/OrderList.dll
+/home/iheb/Documents/code/dotnet/first-test/sol/src/OrderList/obj/Debug/net6.0/ref/OrderList.dll
+/home/iheb/Documents/code/dotnet/first-test/sol/src/OrderList/obj/Debug/net6.0/OrderList.pdb
+/home/iheb/Documents/code/dotnet/first-test/sol/src/OrderList/obj/Debug/net6.0/OrderList.genruntimeconfig.cache

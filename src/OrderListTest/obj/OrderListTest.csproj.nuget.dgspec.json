@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/iheb/Documents/code/dotnet/first-test/sol/src/OrderListTest/OrderListTest.csproj": {}
+  },
+  "projects": {
+    "/home/iheb/Documents/code/dotnet/first-test/sol/src/OrderList/OrderList.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/iheb/Documents/code/dotnet/first-test/sol/src/OrderList/OrderList.csproj",
+        "projectName": "OrderList",
+        "projectPath": "/home/iheb/Documents/code/dotnet/first-test/sol/src/OrderList/OrderList.csproj",
+        "packagesPath": "/home/iheb/.nuget/packages/",
+        "outputPath": "/home/iheb/Documents/code/dotnet/first-test/sol/src/OrderList/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/iheb/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.2, 6.0.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/iheb/Documents/code/dotnet/first-test/sol/src/OrderListTest/OrderListTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/iheb/Documents/code/dotnet/first-test/sol/src/OrderListTest/OrderListTest.csproj",
+        "projectName": "OrderListTest",
+        "projectPath": "/home/iheb/Documents/code/dotnet/first-test/sol/src/OrderListTest/OrderListTest.csproj",
+        "packagesPath": "/home/iheb/.nuget/packages/",
+        "outputPath": "/home/iheb/Documents/code/dotnet/first-test/sol/src/OrderListTest/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/iheb/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/home/iheb/Documents/code/dotnet/first-test/sol/src/OrderList/OrderList.csproj": {
+                "projectPath": "/home/iheb/Documents/code/dotnet/first-test/sol/src/OrderList/OrderList.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.2, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.0.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.2, 6.0.2]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.102/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
